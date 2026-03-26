@@ -1,0 +1,5 @@
+{
+  "name": "AgroConnect",
+  "description": "A comprehensive agricultural intelligence platform connecting farmers with AI-driven crop recommendations, market insights, and a supportive community.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}

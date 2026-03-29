@@ -80,11 +80,3 @@ PORT=5000
 DB_URI=your_database_connection_string
 JWT_SECRET=your_secret_key
 CLOUD_STORAGE_KEY=your_storage_key
-```
-
-4. Run the application
-
-```bash
-npm run dev
-```
-

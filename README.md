@@ -88,14 +88,3 @@ CLOUD_STORAGE_KEY=your_storage_key
 npm run dev
 ```
 
----
-
-## 📱 Usage
-
-* Users can register and log in.
-* Upload and manage video content.
-* Browse and watch videos.
-* Engage via likes, comments, and shares.
-
----
-

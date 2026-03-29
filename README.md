@@ -117,20 +117,3 @@ Contributions are welcome!
 4. Push to the branch (`git push origin feature-name`)
 5. Open a Pull Request
 
----
-
-## 🛡️ License
-
-This project is licensed under the MIT License.
-
----
-
-## 📧 Contact
-
-* Email: [support@videoconnect.com](mailto:support@videoconnect.com)
-
----
-
-## 🌍 Vision
-
-To build a scalable, user-friendly platform for sharing and discovering video content globally.

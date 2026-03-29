@@ -99,10 +99,3 @@ npm run dev
 
 ---
 
-## 🔐 Security
-
-* JWT-based authentication
-* Input validation & sanitization
-* Secure media storage handling
-
--

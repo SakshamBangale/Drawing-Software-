@@ -142,38 +142,4 @@ VideoConnect/
 │── README.md          # Project documentation
 ```
 
----
 
-## ⚙️ Installation & Setup
-
-### Prerequisites
-
-* Node.js (v14 or higher)
-* npm or yarn
-* MongoDB / PostgreSQL
-
-### Steps
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/videoconnect.git
-cd videoconnect
-```
-
-2. Install dependencies
-
-```bash
-npm install
-cd client && npm install
-```
-
-3. Configure environment variables
-
-Create a `.env` file in the root directory:
-
-```
-PORT=5000
-DB_URI=your_database_connection_string
-JWT_SECRET=your_secret_key
-CLOUD_STORAGE_KEY=your_storage_key

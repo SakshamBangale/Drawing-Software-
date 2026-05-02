@@ -13,6 +13,7 @@ db.exec(`
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL,
     phone TEXT UNIQUE NOT NULL,
+    
     email TEXT,
     password TEXT NOT NULL,
     state TEXT,

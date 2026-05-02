@@ -3,6 +3,7 @@ import { createServer as createViteServer } from "vite";
 import path from "path";
 import Database from "better-sqlite3";
 
+
 const db = new Database("agroconnect.db");
 
 // Initialize Database
